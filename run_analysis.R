@@ -47,4 +47,4 @@ processX <- function() {
 }
 
 
-# main()
+main()
